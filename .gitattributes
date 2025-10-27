@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+# Ensure binary files remain untouched
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+
+# Normalize line endings for scripts and configs
+*.js text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
